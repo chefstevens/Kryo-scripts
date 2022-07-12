@@ -1,2 +1,2 @@
 # Kryo-scripts
-deez nuts
+You can run these scripts with your farm will pickup and decline all invites/revive
